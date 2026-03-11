@@ -1,0 +1,1 @@
+# Hamza-Alchbli-nuxt-studio-bug
