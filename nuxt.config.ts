@@ -2,5 +2,8 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-  modules: ['@nuxt/content', '@nuxtjs/i18n', 'nuxt-studio']
+  modules: ['@nuxt/content', '@nuxtjs/i18n', 'nuxt-studio'],
+  i18n: {
+    defaultLocale: 'en',
+  },
 })
